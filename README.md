@@ -22,6 +22,38 @@
 
 </div>
 
+<!-- ABOUT ME -->
+
 <br>
 
-## 👩🏻‍💻 **computer science student**
+# $\color{purple}{\textbf{ IT girl cs student ᯤ}}$
+>*"내가 예뻐서 그렇지 뭐"*
+
+*Welcome to my profile*. Sou estudante de **Ciência da Computação** (atualmente no 1º semestre) e apaixonada por tecnologia, lógica e pelo processo de transformar ideias em linhas de código. Tenho forte interesse em desenvolvimento e análise de dados, e uso este espaço para documentar minha evolução e meus projetos práticos.
+
+### $\color{purple}{\textbf{áreas em exploração}}$ 
+Como cc em formação, estou estudando e experimentando diferentes vertentes para definir minha especialização. Minhas principais áreas de interesse atual são:
+
+*   **Desenvolvimento:** Front-End, Back-End, Full Stack, Mobile e Engenharia de Software.
+*   **Dados & Inteligência:** Análise de Dados e Inteligência Artificial.
+
+### $\color{purple}{\textbf{1.2 certificações e aprendizados}}$
+
+**Infraestrutura & Segurança (Cisco Network Academy)**
+*   Noções Básicas de Redes
+*   Introdução à Cibersegurança
+*   Conscientização sobre Segurança e Proteção Digital
+
+**Dados & Inteligência Artificial**
+*   Introdução à Ciência de Dados *(Cisco)*
+*   Introdução à Análise de Dados com Microsoft Power BI *(Fundação Bradesco)*
+*   Introdução à IA Moderna *(Cisco)*
+
+**Produtividade & Ferramentas Essenciais**
+*   Informática Profissional / Pacote Office *(Centena)*
+*   Microsoft Word Básico *(Fundação Bradesco)*
+
+### $\color{purple}{\textbf{1.3 no que estou trabalhando agora?}}$
+* Praticando os fundamentos de **Lógica de Programação**.
+* Desenvolvendo e estilizando minhas primeiras interfaces com **HTML & CSS**.
+* Aperfeiçoando meu **inglês** e **espanhol**.
