@@ -31,9 +31,11 @@
 
 *Welcome to my profile*. Sou estudante de **Ciência da Computação** (atualmente no 1º semestre) e apaixonada por tecnologia, lógica e pelo processo de transformar ideias em linhas de código. Tenho forte interesse em desenvolvimento e análise de dados, e uso este espaço para documentar minha evolução e meus projetos práticos.
 
+<img align="right" width="240px" src="memberofsnsd" alt="soshi"/> 
+
 ### $\color{purple}{\textbf{áreas em exploração}}$ 
 Como cc em formação, estou estudando e experimentando diferentes vertentes para definir minha especialização. Minhas principais áreas de interesse atual são:
-<img align="right" width="240px" src="" alt="Bloodborne Hunter"/> 
+
 *   **Desenvolvimento:** Front-End, Back-End, Full Stack, Mobile e Engenharia de Software.
 *   **Dados & Inteligência:** Análise de Dados e Inteligência Artificial.
 
@@ -57,3 +59,11 @@ Como cc em formação, estou estudando e experimentando diferentes vertentes par
 * Praticando os fundamentos de **Lógica de Programação**.
 * Desenvolvendo e estilizando minhas primeiras interfaces com **HTML & CSS**.
 * Aperfeiçoando meu **inglês** e **espanhol**.
+
+#Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=najuiamnc&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+
+<br/><br/>
