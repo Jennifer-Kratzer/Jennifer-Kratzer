@@ -16,9 +16,9 @@
 <!-- CONTACT -->
 <div align="center">
   
-![LinkedIn](https://img.shields.io/badge/linkedIn-black?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjennifer-kratzer%2F)
+![LinkedIn](https://img.shields.io/badge/linkedin-6e5494?style=flat&logo=linkedin&link=www.linkedin.com%2Fin%2Fjennifer-kratzer)
 ![Codedex](https://img.shields.io/badge/cod%C3%A9dex.io-black?style=for-the-badge&link=https%3A%2F%2Fwww.codedex.io%2F%40jenniekr)
-![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fkuroemyism)
+![Instagram](https://img.shields.io/badge/instagram-6e5494?style=flat&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fkuroemyism)
 ![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&link=jenniferkr8208%40gmail.com)
 
 </div>
