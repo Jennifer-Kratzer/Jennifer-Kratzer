@@ -1,7 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src=
-    https://cdn.discordapp.com/attachments/1481364035827142669/1525617184578212060/919ab9c0ba1f64557af85468215030fb.jpg?ex=6a540939&is=6a52b7b9&hm=490fe5a9a8772d65a850537cbc051c5bc038136a4ad0565689535b1643c7d24b alt="snsd" width:"100%" />
+  <img src=snsd alt="snsd"/>
 </div>
 
 <br>
@@ -25,4 +24,4 @@
 
 <br>
 
-**computer science student**
+## 👩🏻‍💻 **computer science student**
