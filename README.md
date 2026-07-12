@@ -16,10 +16,10 @@
 <!-- CONTACT -->
 <div align="center">
   
-![LinkedIn](https://img.shields.io/badge/LinkedIn-6e5494?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjennifer-kratzer)
-![Codedex](https://img.shields.io/badge/cod%C3%A9dex.io-black?style=for-the-badge&link=https%3A%2F%2Fwww.codedex.io%2F%40jenniekr)
-![Instagram](https://img.shields.io/badge/instagram-6e5494?style=flat&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fkuroemyism)
-![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&link=jenniferkr8208%40gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6e5494)](https://www.linkedin.com/in/jennifer-kratzer)
+[![Codedex](https://img.shields.io/badge/Cod%C3%A9dex-6e5494)](https://www.codedex.io/@jenniekr)
+[![Instagram](https://img.shields.io/badge/Instagram-6e5494?logo=instagram)](https://www.instagram.com/kuroemyism)
+[![Gmail](https://img.shields.io/badge/Gmail-6e5494?logo=gmail)](jenniferkr8208@gmail.com)
 
 </div>
 
@@ -70,3 +70,7 @@ Como cc em formação, estou estudando e experimentando diferentes vertentes par
 <br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jennifer-Kratzer&theme=modern-lilac)](https://github.com/Jennifer-Kratzer)
+
+<div align="center">
+  <img src=
+</div>
