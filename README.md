@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src=https://cdn.discordapp.com/attachments/1481364035827142669/1525582142703271946/b5219f7b-2543-4aa0-8fd7-605e8991e2e7.jpg?ex=6a53e896&is=6a529716&hm=eca8ce3abca911200a88f4541c8cf033f708597692041b4dde30a601be44b094 width="100%" alt="banner"/>
+  <img src=https://tenor.com/bz3ysEuMExf.gif alt="k"/>
 </div>
 
 <br>
