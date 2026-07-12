@@ -33,13 +33,13 @@
 
 <img align="right" width="240px" src="memberofsnsd" alt="soshi"/> 
 
-### $\color{purple}{\textbf{áreas em exploração}}$ 
+### $\color{purple}{\textbf{- áreas em exploração}}$ 
 Como cc em formação, estou estudando e experimentando diferentes vertentes para definir minha especialização. Minhas principais áreas de interesse atual são:
 
 *   **Desenvolvimento:** Front-End, Back-End, Full Stack, Mobile e Engenharia de Software.
 *   **Dados & Inteligência:** Análise de Dados e Inteligência Artificial.
 
-### $\color{purple}{\textbf{certificações e aprendizados}}$
+### $\color{purple}{\textbf{- certificações e aprendizados}}$
 
 **Infraestrutura & Segurança (Cisco Network Academy)**
 *   Noções Básicas de Redes
@@ -55,15 +55,17 @@ Como cc em formação, estou estudando e experimentando diferentes vertentes par
 *   Informática Profissional / Pacote Office *(Centena)*
 *   Microsoft Word Básico *(Fundação Bradesco)*
 
-### $\color{purple}{\textbf{no que estou trabalhando agora?}}$
+### $\color{purple}{\textbf{- no que estou trabalhando agora?}}$
 * Praticando os fundamentos de **Lógica de Programação**.
 * Desenvolvendo e estilizando minhas primeiras interfaces com **HTML & CSS**.
 * Aperfeiçoando meu **inglês** e **espanhol**.
 
-#Statistics
+### $\color{purple}{\textbf{- statistics}}$
 
-<div align="center">
+<div align="center" width:100%>
 
-<img src="https://streak-stats.demolab.com?user=najuiamnc&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jennifer-Kratzer&theme=modern-lilac2&hide_border=true&border_radius=1&card_width=1000&card_height=20&background=FFFFFF00)](https://git.io/streak-stats)
+  
 <br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jennifer-Kratzer&theme=modern-lilac)](https://github.com/Jennifer-Kratzer)
