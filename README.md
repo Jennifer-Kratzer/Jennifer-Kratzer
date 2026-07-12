@@ -33,11 +33,11 @@
 
 ### $\color{purple}{\textbf{áreas em exploração}}$ 
 Como cc em formação, estou estudando e experimentando diferentes vertentes para definir minha especialização. Minhas principais áreas de interesse atual são:
-
+<img align="right" width="240px" src="" alt="Bloodborne Hunter"/> 
 *   **Desenvolvimento:** Front-End, Back-End, Full Stack, Mobile e Engenharia de Software.
 *   **Dados & Inteligência:** Análise de Dados e Inteligência Artificial.
 
-### $\color{purple}{\textbf{1.2 certificações e aprendizados}}$
+### $\color{purple}{\textbf{certificações e aprendizados}}$
 
 **Infraestrutura & Segurança (Cisco Network Academy)**
 *   Noções Básicas de Redes
@@ -53,7 +53,7 @@ Como cc em formação, estou estudando e experimentando diferentes vertentes par
 *   Informática Profissional / Pacote Office *(Centena)*
 *   Microsoft Word Básico *(Fundação Bradesco)*
 
-### $\color{purple}{\textbf{1.3 no que estou trabalhando agora?}}$
+### $\color{purple}{\textbf{no que estou trabalhando agora?}}$
 * Praticando os fundamentos de **Lógica de Programação**.
 * Desenvolvendo e estilizando minhas primeiras interfaces com **HTML & CSS**.
 * Aperfeiçoando meu **inglês** e **espanhol**.
