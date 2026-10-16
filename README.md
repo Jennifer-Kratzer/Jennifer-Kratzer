@@ -7,7 +7,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=30&pause=1000&color=6E5494&background=FFFFFF00&center=true&vCenter=true&width=435&lines=just+IT+girl+student;good+job+computa" alt="Typing SVG"/a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=just+IT+girl+student;good+job+computa" alt="Typing SVG"/a>
 
 </div>
 
@@ -18,9 +18,12 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=plastic&logo=LinkedIn&logoColor=white&logoSize=auto&color=%23ff69b4
 )](https://www.linkedin.com/in/jennifer-kratzer)
-[![Codedex](https://img.shields.io/badge/Cod%C3%A9dex-6e5494)](https://www.codedex.io/@jenniekr)
-[![Instagram](https://img.shields.io/badge/Instagram-6e5494?logo=instagram)](https://www.instagram.com/kuroemyism)
-[![Gmail](https://img.shields.io/badge/Gmail-6e5494?logo=gmail)](jenniferkr8208@gmail.com)
+[![Codedex](https://img.shields.io/badge/Cod%C3%A9dex-pink?style=plastic&logo=LinkedIn&logoColor=white&logoSize=auto&color=%23ff69b4
+)](https://www.codedex.io/@jenniekr)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=plastic&logo=Instagram&logoColor=white&logoSize=auto&color=%23ff69b4
+)](https://www.instagram.com/missjenie.s2)
+[![Gmail](https://img.shields.io/badge/Gmail-pink?style=plastic&logo=Gmail&logoColor=white&color=%23ff69b4
+)](jenniferkr8208@gmail.com)
 
 </div>
 
@@ -31,7 +34,7 @@
 # $\color{#ff69b4}{\textbf{IT girl cs student}}$
 >*"내가 예뻐서 그렇지 뭐"*
 
-*Welcome to my profile*. Sou estudante de **Ciência da Computação** (atualmente no 1º semestre) e apaixonada por tecnologia, lógica e pelo processo de transformar ideias em linhas de código. Tenho forte interesse em desenvolvimento e análise de dados, e uso este espaço para documentar minha evolução e meus projetos práticos.
+*Welcome to my profile*. Sou estudante de **Ciência da Computação** (atualmente no 2º semestre) e apaixonada por tecnologia, lógica e pelo processo de transformar ideias em linhas de código. Tenho forte interesse em desenvolvimento e análise de dados, e uso este espaço para documentar minha evolução e meus projetos práticos.
 
 <img align="right" width="240px" src="memberofsnsd" alt="soshi"/> 
 
