@@ -16,7 +16,8 @@
 <!-- CONTACT -->
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6e5494)](https://www.linkedin.com/in/jennifer-kratzer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=plastic&logo=LinkedIn&logoColor=white&logoSize=auto&color=%23ff69b4
+)](https://www.linkedin.com/in/jennifer-kratzer)
 [![Codedex](https://img.shields.io/badge/Cod%C3%A9dex-6e5494)](https://www.codedex.io/@jenniekr)
 [![Instagram](https://img.shields.io/badge/Instagram-6e5494?logo=instagram)](https://www.instagram.com/kuroemyism)
 [![Gmail](https://img.shields.io/badge/Gmail-6e5494?logo=gmail)](jenniferkr8208@gmail.com)
@@ -27,7 +28,7 @@
 
 <br>
 
-# $\color{purple}{\textbf{ IT girl cs student ᯤ}}$
+# $\color{#ff69b4}{\textbf{ IT girl cs student ᯤ}}$
 >*"내가 예뻐서 그렇지 뭐"*
 
 *Welcome to my profile*. Sou estudante de **Ciência da Computação** (atualmente no 1º semestre) e apaixonada por tecnologia, lógica e pelo processo de transformar ideias em linhas de código. Tenho forte interesse em desenvolvimento e análise de dados, e uso este espaço para documentar minha evolução e meus projetos práticos.
