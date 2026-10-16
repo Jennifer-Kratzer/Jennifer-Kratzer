@@ -28,20 +28,20 @@
 
 <br>
 
-# $\color{pink}{\textbf{IT girl cs student}}$
+# $\color{#ff69b4}{\textbf{IT girl cs student}}$
 >*"내가 예뻐서 그렇지 뭐"*
 
 *Welcome to my profile*. Sou estudante de **Ciência da Computação** (atualmente no 1º semestre) e apaixonada por tecnologia, lógica e pelo processo de transformar ideias em linhas de código. Tenho forte interesse em desenvolvimento e análise de dados, e uso este espaço para documentar minha evolução e meus projetos práticos.
 
 <img align="right" width="240px" src="memberofsnsd" alt="soshi"/> 
 
-### $\color{purple}{\textbf{- áreas em exploração}}$ 
+### $\color{#ff69b4}{\textbf{- áreas em exploração}}$ 
 Como cc em formação, estou estudando e experimentando diferentes vertentes para definir minha especialização. Minhas principais áreas de interesse atual são:
 
 *   **Desenvolvimento:** Front-End, Back-End, Full Stack, Mobile e Engenharia de Software.
 *   **Dados & Inteligência:** Análise de Dados e Inteligência Artificial.
 
-### $\color{purple}{\textbf{- certificações e aprendizados}}$
+### $\color{#ff69b4}{\textbf{- certificações e aprendizados}}$
 
 **Infraestrutura & Segurança (Cisco Network Academy)**
 *   Noções Básicas de Redes
@@ -57,12 +57,12 @@ Como cc em formação, estou estudando e experimentando diferentes vertentes par
 *   Informática Profissional / Pacote Office *(Centena)*
 *   Microsoft Word Básico *(Fundação Bradesco)*
 
-### $\color{purple}{\textbf{- no que estou trabalhando agora?}}$
+### $\color{#ff69b4}{\textbf{- no que estou trabalhando agora?}}$
 * Praticando os fundamentos de **Lógica de Programação**.
 * Desenvolvendo e estilizando minhas primeiras interfaces com **HTML & CSS**.
 * Aperfeiçoando meu **inglês** e **espanhol**.
 
-### $\color{purple}{\textbf{- statistics}}$
+### $\color{#ff69b4}{\textbf{- statistics}}$
 
 <div align="center" width:100%>
 
