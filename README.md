@@ -68,12 +68,8 @@ Como cc em formação, estou estudando e experimentando diferentes vertentes par
 ### $\color{#ff69b4}{\textbf{- statistics}}$
 
 <div align="center" width:100%>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jennifer-Kratzer&theme=violet-dark" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jennifer-Kratzer&theme=modern-lilac2&hide_border=true&border_radius=1&card_width=1000&card_height=20&background=FFFFFF00)](https://git.io/streak-stats)
-  
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jennifer-Kratzer&theme=modern-lilac)](https://github.com/Jennifer-Kratzer)
 
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1481364035827142669/1525671776561139752/Tumblr_l_69282713859021.gif?ex=6a543c11&is=6a52ea91&hm=15d9c69bcae88f324ce1a59e87631548aed956d174da89d9585a9952077a7dbd&" alt="gif"/>
