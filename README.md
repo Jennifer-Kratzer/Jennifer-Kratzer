@@ -28,7 +28,7 @@
 
 <br>
 
-# $\color{#ff69b4}{\textbf{ IT girl cs student ᯤ}}$
+# $\color{pink}{\textbf{IT girl cs student}}$
 >*"내가 예뻐서 그렇지 뭐"*
 
 *Welcome to my profile*. Sou estudante de **Ciência da Computação** (atualmente no 1º semestre) e apaixonada por tecnologia, lógica e pelo processo de transformar ideias em linhas de código. Tenho forte interesse em desenvolvimento e análise de dados, e uso este espaço para documentar minha evolução e meus projetos práticos.
